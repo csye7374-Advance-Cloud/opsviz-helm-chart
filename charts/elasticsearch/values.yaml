@@ -708,7 +708,7 @@ curator:
 ## ref: https://hub.docker.com/r/bitnami/elasticsearch-exporter/tags/
 ##
 metrics:
-  enabled: false
+  enabled: true
   name: metrics
   image:
     registry: docker.io

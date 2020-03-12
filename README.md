@@ -11,8 +11,8 @@
 
 ## Run Helm Chart
 
-To create Frontend and Backend charts
+To create opsviz charts
 
 ```bash
-$ helm install opviz ./opviz-helm-charts/
+$ helm install opviz ./opsviz-helm-chart/
 ```
